@@ -1,0 +1,7 @@
+#parentM li a {
+    color: white;
+}
+#parentM li a:hover{
+    background-color: whitesmoke;
+    color: black;
+}
